@@ -1070,3 +1070,5 @@ CONFIG_USE_AS_HS=y
 
 # Opensource exFAT driver
 CONFIG_SDEXFAT_FS=y
+
+CONFIG_OCEAN_NOTE=y
